@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\bin\Debug\DemoConditionalStatements.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\bin\Debug\DemoConditionalStatements.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\bin\Debug\DemoConditionalStatements.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\obj\Debug\DemoConditionalStatements.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\obj\Debug\DemoConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\obj\Debug\DemoConditionalStatements.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\DemoConditionalStatements\obj\Debug\DemoConditionalStatements.pdb

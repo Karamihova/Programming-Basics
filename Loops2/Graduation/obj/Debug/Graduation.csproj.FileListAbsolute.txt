@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\bin\Debug\Graduation.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\bin\Debug\Graduation.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\bin\Debug\Graduation.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\obj\Debug\Graduation.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\obj\Debug\Graduation.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\obj\Debug\Graduation.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Graduation\obj\Debug\Graduation.pdb

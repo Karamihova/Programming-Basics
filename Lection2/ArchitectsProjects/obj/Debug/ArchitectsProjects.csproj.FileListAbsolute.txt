@@ -1,0 +1,6 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\bin\Debug\ArchitectsProjects.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\bin\Debug\ArchitectsProjects.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\bin\Debug\ArchitectsProjects.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\obj\Debug\ArchitectsProjects.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\obj\Debug\ArchitectsProjects.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\ArchitectsProjects\obj\Debug\ArchitectsProjects.pdb

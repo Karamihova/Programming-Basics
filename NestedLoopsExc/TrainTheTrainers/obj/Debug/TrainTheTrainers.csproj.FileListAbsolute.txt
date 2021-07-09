@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\bin\Debug\TrainTheTrainers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\bin\Debug\TrainTheTrainers.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\obj\Debug\TrainTheTrainers.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\obj\Debug\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\obj\Debug\TrainTheTrainers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\TrainTheTrainers\obj\Debug\TrainTheTrainers.pdb

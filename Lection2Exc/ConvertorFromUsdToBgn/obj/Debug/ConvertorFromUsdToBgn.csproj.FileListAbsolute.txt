@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\bin\Debug\ConvertorFromUsdToBgn.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\bin\Debug\ConvertorFromUsdToBgn.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\bin\Debug\ConvertorFromUsdToBgn.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\obj\Debug\ConvertorFromUsdToBgn.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\obj\Debug\ConvertorFromUsdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\obj\Debug\ConvertorFromUsdToBgn.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\ConvertorFromUsdToBgn\obj\Debug\ConvertorFromUsdToBgn.pdb

@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\bin\Debug\ReadText.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\bin\Debug\ReadText.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\bin\Debug\ReadText.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\obj\Debug\ReadText.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\obj\Debug\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\obj\Debug\ReadText.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\ReadText\obj\Debug\ReadText.pdb

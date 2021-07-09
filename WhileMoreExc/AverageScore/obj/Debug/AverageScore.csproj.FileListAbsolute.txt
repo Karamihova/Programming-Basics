@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\bin\Debug\AverageScore.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\bin\Debug\AverageScore.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\bin\Debug\AverageScore.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\obj\Debug\AverageScore.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\obj\Debug\AverageScore.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\obj\Debug\AverageScore.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\AverageScore\obj\Debug\AverageScore.pdb

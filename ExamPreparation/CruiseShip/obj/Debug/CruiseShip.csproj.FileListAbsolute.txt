@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.pdb

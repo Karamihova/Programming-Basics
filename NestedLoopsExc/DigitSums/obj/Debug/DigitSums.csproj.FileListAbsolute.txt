@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\bin\Debug\DigitSums.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\bin\Debug\DigitSums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\bin\Debug\DigitSums.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\obj\Debug\DigitSums.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\obj\Debug\DigitSums.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\obj\Debug\DigitSums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\DigitSums\obj\Debug\DigitSums.pdb

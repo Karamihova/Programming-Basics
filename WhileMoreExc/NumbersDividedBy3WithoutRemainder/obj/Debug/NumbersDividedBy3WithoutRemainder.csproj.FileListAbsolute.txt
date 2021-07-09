@@ -1,0 +1,6 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\bin\Debug\NumbersDividedBy3WithoutRemainder.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\bin\Debug\NumbersDividedBy3WithoutRemainder.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\bin\Debug\NumbersDividedBy3WithoutRemainder.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\obj\Debug\NumbersDividedBy3WithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\obj\Debug\NumbersDividedBy3WithoutRemainder.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\NumbersDividedBy3WithoutRemainder\obj\Debug\NumbersDividedBy3WithoutRemainder.pdb

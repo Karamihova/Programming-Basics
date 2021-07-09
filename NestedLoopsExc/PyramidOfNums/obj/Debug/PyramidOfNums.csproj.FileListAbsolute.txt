@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\bin\Debug\PyramidOfNums.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\bin\Debug\PyramidOfNums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\bin\Debug\PyramidOfNums.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\obj\Debug\PyramidOfNums.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\obj\Debug\PyramidOfNums.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\obj\Debug\PyramidOfNums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\PyramidOfNums\obj\Debug\PyramidOfNums.pdb

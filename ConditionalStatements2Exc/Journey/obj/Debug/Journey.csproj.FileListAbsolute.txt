@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\bin\Debug\Journey.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\bin\Debug\Journey.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\bin\Debug\Journey.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\obj\Debug\Journey.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Journey\obj\Debug\Journey.pdb

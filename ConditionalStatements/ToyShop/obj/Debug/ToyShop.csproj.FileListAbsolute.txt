@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\bin\Debug\ToyShop.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\bin\Debug\ToyShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\bin\Debug\ToyShop.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\obj\Debug\ToyShop.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\obj\Debug\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\obj\Debug\ToyShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\ToyShop\obj\Debug\ToyShop.pdb

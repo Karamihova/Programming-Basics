@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\bin\Debug\YardGreening.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\bin\Debug\YardGreening.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\bin\Debug\YardGreening.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\obj\Debug\YardGreening.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\obj\Debug\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\obj\Debug\YardGreening.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\YardGreening\obj\Debug\YardGreening.pdb

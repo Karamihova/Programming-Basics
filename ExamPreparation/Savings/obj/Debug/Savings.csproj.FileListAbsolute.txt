@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\bin\Debug\Savings.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\bin\Debug\Savings.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\bin\Debug\Savings.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\obj\Debug\Savings.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\obj\Debug\Savings.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\obj\Debug\Savings.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\Savings\obj\Debug\Savings.pdb

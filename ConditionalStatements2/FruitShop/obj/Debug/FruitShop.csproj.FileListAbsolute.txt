@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\bin\Debug\FruitShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\bin\Debug\FruitShop.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\obj\Debug\FruitShop.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\obj\Debug\FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\FruitShop\obj\Debug\FruitShop.pdb

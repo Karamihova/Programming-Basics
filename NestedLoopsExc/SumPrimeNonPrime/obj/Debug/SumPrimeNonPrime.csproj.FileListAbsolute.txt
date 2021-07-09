@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\bin\Debug\SumPrimeNonPrime.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SumPrimeNonPrime\obj\Debug\SumPrimeNonPrime.pdb

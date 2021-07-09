@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\bin\Debug\WorldSwimmingRecord.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\WorldSwimmingRecord\obj\Debug\WorldSwimmingRecord.pdb

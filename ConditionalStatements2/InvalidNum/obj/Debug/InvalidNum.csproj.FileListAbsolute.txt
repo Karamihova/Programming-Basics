@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\bin\Debug\InvalidNum.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\bin\Debug\InvalidNum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\bin\Debug\InvalidNum.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\obj\Debug\InvalidNum.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\obj\Debug\InvalidNum.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\obj\Debug\InvalidNum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\InvalidNum\obj\Debug\InvalidNum.pdb

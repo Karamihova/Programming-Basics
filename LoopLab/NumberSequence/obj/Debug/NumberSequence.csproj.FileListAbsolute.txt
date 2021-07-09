@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\obj\Debug\NumberSequence.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\NumberSequence\obj\Debug\NumberSequence.pdb

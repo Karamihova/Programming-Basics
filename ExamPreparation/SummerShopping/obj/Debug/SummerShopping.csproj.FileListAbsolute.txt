@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\bin\Debug\SummerShopping.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\bin\Debug\SummerShopping.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\bin\Debug\SummerShopping.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\obj\Debug\SummerShopping.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\obj\Debug\SummerShopping.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\obj\Debug\SummerShopping.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ExamPreparation\SummerShopping\obj\Debug\SummerShopping.pdb

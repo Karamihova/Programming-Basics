@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\bin\Debug\Trapeze.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\bin\Debug\Trapeze.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\bin\Debug\Trapeze.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\obj\Debug\Trapeze.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\obj\Debug\Trapeze.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\obj\Debug\Trapeze.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\Trapeze\obj\Debug\Trapeze.pdb

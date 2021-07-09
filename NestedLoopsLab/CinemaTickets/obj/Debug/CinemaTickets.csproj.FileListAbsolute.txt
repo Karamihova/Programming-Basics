@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\bin\Debug\CinemaTickets.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\bin\Debug\CinemaTickets.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\bin\Debug\CinemaTickets.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\obj\Debug\CinemaTickets.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\obj\Debug\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\obj\Debug\CinemaTickets.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\CinemaTickets\obj\Debug\CinemaTickets.pdb

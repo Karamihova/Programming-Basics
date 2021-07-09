@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
+C:\Users\tsvet\source\repos\LoopLab\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

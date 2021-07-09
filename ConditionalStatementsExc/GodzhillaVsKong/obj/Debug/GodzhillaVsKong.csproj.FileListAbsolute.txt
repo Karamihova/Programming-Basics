@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\bin\Debug\GodzhillaVsKong.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\bin\Debug\GodzhillaVsKong.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\bin\Debug\GodzhillaVsKong.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\obj\Debug\GodzhillaVsKong.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\obj\Debug\GodzhillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\obj\Debug\GodzhillaVsKong.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\GodzhillaVsKong\obj\Debug\GodzhillaVsKong.pdb

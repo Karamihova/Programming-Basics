@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\bin\Debug\SumNumbers.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\obj\Debug\SumNumbers.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\SumNumbers\obj\Debug\SumNumbers.pdb

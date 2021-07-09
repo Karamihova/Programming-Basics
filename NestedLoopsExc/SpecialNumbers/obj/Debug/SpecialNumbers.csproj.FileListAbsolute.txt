@@ -1,0 +1,6 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\obj\Debug\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsExc\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

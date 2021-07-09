@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\bin\Debug\Exercise.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\bin\Debug\Exercise.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\obj\Debug\Exercise.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\Exercise\obj\Debug\Exercise.pdb

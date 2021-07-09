@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\bin\Debug\StudentsHall.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\bin\Debug\StudentsHall.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\bin\Debug\StudentsHall.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\obj\Debug\FishShop.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\obj\Debug\FishShop.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\obj\Debug\StudentsHall.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\StudentsHall\obj\Debug\StudentsHall.pdb

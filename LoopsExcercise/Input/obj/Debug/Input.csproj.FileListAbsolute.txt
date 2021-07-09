@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\bin\Debug\Input.exe.config
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\bin\Debug\Input.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\bin\Debug\Input.pdb
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\obj\Debug\Input.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\obj\Debug\Input.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\Input\obj\Debug\Input.pdb

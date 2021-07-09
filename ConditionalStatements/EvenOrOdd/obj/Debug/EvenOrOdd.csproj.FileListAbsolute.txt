@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

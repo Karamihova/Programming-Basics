@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\bin\Debug\AccountBalance.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\bin\Debug\AccountBalance.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\bin\Debug\AccountBalance.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\obj\Debug\AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\obj\Debug\AccountBalance.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\obj\Debug\AccountBalance.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\AccountBalance\obj\Debug\AccountBalance.csprojAssemblyReference.cache

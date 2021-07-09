@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\bin\Debug\TradeComissions.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\bin\Debug\TradeComissions.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\bin\Debug\TradeComissions.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\obj\Debug\TradeComissions.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\obj\Debug\TradeComissions.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\obj\Debug\TradeComissions.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\TradeComissions\obj\Debug\TradeComissions.pdb

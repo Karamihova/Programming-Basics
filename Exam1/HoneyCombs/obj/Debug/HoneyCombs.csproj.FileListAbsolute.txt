@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\bin\Debug\HoneyCombs.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\bin\Debug\HoneyCombs.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\bin\Debug\HoneyCombs.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\obj\Debug\HoneyCombs.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\obj\Debug\HoneyCombs.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\obj\Debug\HoneyCombs.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\HoneyCombs\obj\Debug\HoneyCombs.pdb

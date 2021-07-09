@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\bin\Debug\Dishwasher.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\bin\Debug\Dishwasher.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\bin\Debug\Dishwasher.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\obj\Debug\Dishwasher.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\obj\Debug\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\obj\Debug\Dishwasher.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\WhileMoreExc\Dishwasher\obj\Debug\Dishwasher.pdb

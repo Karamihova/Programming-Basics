@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\bin\Debug\Expression.exe.config
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\bin\Debug\Expression.exe
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\bin\Debug\Expression.pdb
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\obj\Debug\Expression.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\obj\Debug\Expression.exe
+C:\Users\tsvet\Desktop\New folder\Expression\Expression\obj\Debug\Expression.pdb

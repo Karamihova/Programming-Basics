@@ -1,0 +1,6 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\bin\Debug\BeehiveRole.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\bin\Debug\BeehiveRole.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\bin\Debug\BeehiveRole.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\obj\Debug\BeehiveRole.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\obj\Debug\BeehiveRole.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveRole\obj\Debug\BeehiveRole.pdb

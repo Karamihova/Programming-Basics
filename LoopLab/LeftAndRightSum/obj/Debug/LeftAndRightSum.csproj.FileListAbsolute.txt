@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

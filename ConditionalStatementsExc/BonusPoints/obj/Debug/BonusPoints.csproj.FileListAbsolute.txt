@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\bin\Debug\BonusPoints.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\bin\Debug\BonusPoints.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\bin\Debug\BonusPoints.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\obj\Debug\BonusPoints.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\obj\Debug\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\obj\Debug\BonusPoints.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\BonusPoints\obj\Debug\BonusPoints.pdb

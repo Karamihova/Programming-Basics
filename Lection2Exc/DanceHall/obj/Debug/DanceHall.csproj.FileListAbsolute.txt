@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\bin\Debug\DanceHall.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\bin\Debug\DanceHall.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\bin\Debug\DanceHall.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\obj\Debug\DanceHall.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\obj\Debug\DanceHall.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\obj\Debug\DanceHall.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\DanceHall\obj\Debug\DanceHall.pdb

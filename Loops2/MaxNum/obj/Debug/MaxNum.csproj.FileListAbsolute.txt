@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\bin\Debug\MaxNum.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\bin\Debug\MaxNum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\bin\Debug\MaxNum.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\obj\Debug\MaxNum.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\obj\Debug\MaxNum.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\obj\Debug\MaxNum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\MaxNum\obj\Debug\MaxNum.pdb

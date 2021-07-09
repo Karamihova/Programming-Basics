@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\bin\Debug\RectanglrArea.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\bin\Debug\RectanglrArea.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\bin\Debug\RectanglrArea.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\obj\Debug\RectanglrArea.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\obj\Debug\RectanglrArea.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\obj\Debug\RectanglrArea.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\RectanglrArea\obj\Debug\RectanglrArea.pdb

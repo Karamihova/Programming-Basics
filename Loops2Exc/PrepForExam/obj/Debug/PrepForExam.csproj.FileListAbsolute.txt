@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\bin\Debug\PrepForExam.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\bin\Debug\PrepForExam.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\bin\Debug\PrepForExam.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\obj\Debug\PrepForExam.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\obj\Debug\PrepForExam.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\obj\Debug\PrepForExam.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\PrepForExam\obj\Debug\PrepForExam.pdb

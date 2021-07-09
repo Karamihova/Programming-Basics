@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\bin\Debug\CelciumToFarenheit.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\bin\Debug\CelciumToFarenheit.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\bin\Debug\CelciumToFarenheit.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\obj\Debug\CelciumToFarenheit.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\obj\Debug\CelciumToFarenheit.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\obj\Debug\CelciumToFarenheit.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CelciumToFarenheit\obj\Debug\CelciumToFarenheit.pdb

@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\bin\Debug\HotelRoom.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\bin\Debug\HotelRoom.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\bin\Debug\HotelRoom.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\obj\Debug\HotelRoom.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\obj\Debug\HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\obj\Debug\HotelRoom.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\HotelRoom\obj\Debug\HotelRoom.pdb

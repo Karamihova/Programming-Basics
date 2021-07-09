@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\bin\Debug\Coins.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\bin\Debug\Coins.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\bin\Debug\Coins.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\obj\Debug\Coins.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\obj\Debug\Coins.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\Coins\obj\Debug\Coins.pdb

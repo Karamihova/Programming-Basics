@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\bin\Debug\Moving.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\bin\Debug\Moving.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\bin\Debug\Moving.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\obj\Debug\Moving.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\obj\Debug\Moving.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2\Moving\obj\Debug\Moving.pdb

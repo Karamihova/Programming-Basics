@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\bin\Debug\SumNum.exe.config
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\bin\Debug\SumNum.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\bin\Debug\SumNum.pdb
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\obj\Debug\SumNum.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\obj\Debug\SumNum.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\obj\Debug\SumNum.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\SumNum\obj\Debug\SumNum.pdb

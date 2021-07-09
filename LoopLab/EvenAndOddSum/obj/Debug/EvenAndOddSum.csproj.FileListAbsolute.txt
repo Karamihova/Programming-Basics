@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\bin\Debug\EvenAndOddSum.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\bin\Debug\EvenAndOddSum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\bin\Debug\EvenAndOddSum.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\obj\Debug\EvenAndOddSum.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\obj\Debug\EvenAndOddSum.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\obj\Debug\EvenAndOddSum.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\LoopLab\EvenAndOddSum\obj\Debug\EvenAndOddSum.pdb

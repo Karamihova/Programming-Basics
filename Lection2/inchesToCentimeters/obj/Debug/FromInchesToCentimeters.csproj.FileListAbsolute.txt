@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\bin\Debug\inchesToCentimeters.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\bin\Debug\inchesToCentimeters.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\bin\Debug\inchesToCentimeters.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\obj\Debug\FromInchesToCentimeters.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\obj\Debug\FromInchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\obj\Debug\inchesToCentimeters.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\inchesToCentimeters\obj\Debug\inchesToCentimeters.pdb

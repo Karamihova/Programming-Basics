@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\bin\Debug\OldBooks.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\bin\Debug\OldBooks.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\bin\Debug\OldBooks.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\obj\Debug\OldBooks.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\obj\Debug\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\obj\Debug\OldBooks.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldBooks\obj\Debug\OldBooks.pdb

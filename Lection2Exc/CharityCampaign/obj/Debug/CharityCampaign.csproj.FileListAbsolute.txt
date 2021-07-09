@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\bin\Debug\CharityCampaign.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\bin\Debug\CharityCampaign.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\bin\Debug\CharityCampaign.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\obj\Debug\CharityCampaign.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\obj\Debug\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\obj\Debug\CharityCampaign.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\CharityCampaign\obj\Debug\CharityCampaign.pdb

@@ -1,0 +1,6 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\bin\Debug\Cinema.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\bin\Debug\Cinema.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\obj\Debug\Cinema.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\Cinema\obj\Debug\Cinema.pdb

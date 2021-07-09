@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\bin\Debug\Clock.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\bin\Debug\Clock.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\bin\Debug\Clock.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\obj\Debug\Clock.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\Clock\obj\Debug\Clock.pdb

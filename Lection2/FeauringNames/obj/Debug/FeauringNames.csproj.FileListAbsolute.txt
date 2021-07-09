@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\bin\Debug\FeauringNames.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\bin\Debug\FeauringNames.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\bin\Debug\FeauringNames.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\obj\Debug\FeauringNames.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\obj\Debug\FeauringNames.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\obj\Debug\FeauringNames.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2\FeauringNames\obj\Debug\FeauringNames.pdb

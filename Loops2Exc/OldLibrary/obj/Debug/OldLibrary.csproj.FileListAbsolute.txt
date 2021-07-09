@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\bin\Debug\OldLibrary.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\bin\Debug\OldLibrary.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\bin\Debug\OldLibrary.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\obj\Debug\OldLibrary.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\obj\Debug\OldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\obj\Debug\OldLibrary.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Loops2Exc\OldLibrary\obj\Debug\OldLibrary.pdb

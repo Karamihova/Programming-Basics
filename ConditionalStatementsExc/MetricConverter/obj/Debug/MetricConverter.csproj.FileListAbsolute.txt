@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\bin\Debug\MetricConverter.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\bin\Debug\MetricConverter.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\bin\Debug\MetricConverter.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\obj\Debug\MetricConverter.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\obj\Debug\MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\obj\Debug\MetricConverter.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\MetricConverter\obj\Debug\MetricConverter.pdb

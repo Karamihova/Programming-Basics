@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

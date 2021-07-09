@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\bin\Debug\WinterStockedHoney.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\bin\Debug\WinterStockedHoney.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\bin\Debug\WinterStockedHoney.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\obj\Debug\WinterStockedHoney.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\obj\Debug\WinterStockedHoney.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\obj\Debug\WinterStockedHoney.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\WinterStockedHoney\obj\Debug\WinterStockedHoney.pdb

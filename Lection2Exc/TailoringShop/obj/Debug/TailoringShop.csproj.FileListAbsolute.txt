@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\bin\Debug\TailoringShop.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\bin\Debug\TailoringShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\bin\Debug\TailoringShop.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\obj\Debug\TailoringShop.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\obj\Debug\TailoringShop.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\obj\Debug\TailoringShop.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Lection2Exc\TailoringShop\obj\Debug\TailoringShop.pdb

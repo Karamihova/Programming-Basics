@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\bin\Debug\SumOf2Nums.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\bin\Debug\SumOf2Nums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\bin\Debug\SumOf2Nums.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\obj\Debug\SumOf2Nums.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\obj\Debug\SumOf2Nums.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\obj\Debug\SumOf2Nums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\NestedLoopsLab\SumOf2Nums\obj\Debug\SumOf2Nums.pdb

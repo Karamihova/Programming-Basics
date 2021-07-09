@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

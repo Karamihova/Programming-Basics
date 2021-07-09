@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\bin\Debug\SkiTrip.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\bin\Debug\SkiTrip.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\bin\Debug\SkiTrip.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\obj\Debug\SkiTrip.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\obj\Debug\SkiTrip.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\obj\Debug\SkiTrip.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2\SkiTrip\obj\Debug\SkiTrip.pdb

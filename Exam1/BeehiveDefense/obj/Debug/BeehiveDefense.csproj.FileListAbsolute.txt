@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\bin\Debug\BeehiveDefense.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\bin\Debug\BeehiveDefense.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\bin\Debug\BeehiveDefense.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\obj\Debug\BeehiveDefense.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\obj\Debug\BeehiveDefense.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\obj\Debug\BeehiveDefense.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\Exam1\BeehiveDefense\obj\Debug\BeehiveDefense.pdb

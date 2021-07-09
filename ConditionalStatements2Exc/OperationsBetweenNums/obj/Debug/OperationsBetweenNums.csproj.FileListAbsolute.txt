@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\bin\Debug\OperationsBetweenNums.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\bin\Debug\OperationsBetweenNums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\bin\Debug\OperationsBetweenNums.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\obj\Debug\OperationsBetweenNums.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\obj\Debug\OperationsBetweenNums.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\obj\Debug\OperationsBetweenNums.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatements2Exc\OperationsBetweenNums\obj\Debug\OperationsBetweenNums.pdb

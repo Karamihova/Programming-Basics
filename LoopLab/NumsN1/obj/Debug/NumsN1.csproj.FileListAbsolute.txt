@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\bin\Debug\NumsN1.exe.config
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\bin\Debug\NumsN1.exe
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\bin\Debug\NumsN1.pdb
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\obj\Debug\NumsN1.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\obj\Debug\NumsN1.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\obj\Debug\NumsN1.exe
+C:\Users\tsvet\source\repos\LoopLab\NumsN1\obj\Debug\NumsN1.pdb

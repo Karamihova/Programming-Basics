@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\obj\Debug\OddEvenPosition.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\obj\Debug\OddEvenPosition.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+C:\Users\tsvet\source\repos\LoopsExcercise\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

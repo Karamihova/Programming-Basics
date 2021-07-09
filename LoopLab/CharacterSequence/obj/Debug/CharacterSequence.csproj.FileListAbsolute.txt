@@ -1,0 +1,6 @@
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\bin\Debug\CharacterSequence.exe.config
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\bin\Debug\CharacterSequence.exe
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\bin\Debug\CharacterSequence.pdb
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\obj\Debug\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\obj\Debug\CharacterSequence.exe
+C:\Users\tsvet\source\repos\LoopLab\CharacterSequence\obj\Debug\CharacterSequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\bin\Debug\SwimmingRecord2.exe.config
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\bin\Debug\SwimmingRecord2.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\bin\Debug\SwimmingRecord2.pdb
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\obj\Debug\SwimmingRecord2.csprojAssemblyReference.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\obj\Debug\SwimmingRecord2.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\obj\Debug\SwimmingRecord2.exe
+C:\Users\tsvet\Desktop\SOFTUNI FOLDER\ConditionalStatementsExc\SwimmingRecord2\obj\Debug\SwimmingRecord2.pdb

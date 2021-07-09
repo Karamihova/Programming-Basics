@@ -1,0 +1,7 @@
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\bin\Debug\Num1ToStep3.exe.config
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\bin\Debug\Num1ToStep3.exe
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\bin\Debug\Num1ToStep3.pdb
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\obj\Debug\Num1ToStep3.csprojAssemblyReference.cache
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\obj\Debug\Num1ToStep3.csproj.CoreCompileInputs.cache
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\obj\Debug\Num1ToStep3.exe
+C:\Users\tsvet\source\repos\LoopLab\Num1ToStep3\obj\Debug\Num1ToStep3.pdb
